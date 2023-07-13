@@ -5,4 +5,4 @@
 # @raycast.title Open CyberChef
 # @raycast.mode silent
 
-cyberchef.sh
+/Users/florent.clarret/.scripts/cyberchef.sh
