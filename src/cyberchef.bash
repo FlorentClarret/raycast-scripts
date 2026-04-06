@@ -10,4 +10,4 @@
 # @raycast.authorURL https://github.com/FlorentClarret
 # @raycast.description Start a cyberchef server and open it
 
-/Users/florent.clarret/.scripts/cyberchef.sh
+/Users/florent.clarret/.scripts/cyberchef.bash
